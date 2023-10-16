@@ -23,6 +23,12 @@ require 'scripts/pi-hole/php/header_authenticated.php';
                 <h3 class="box-title">
                     Select date and time range
                 </h3>
+                <h3 class="box-title">
+                    Select date and time range
+                </h3>
+                <h3 class="box-title">
+                    Select date and time range
+                </h3>
             </div>
             <div class="box-body">
                 <div class="alert alert-info reload-box">
